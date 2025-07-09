@@ -16,6 +16,4 @@ Teaching Assistant (University of Edinburgh):
 
 Professional Service
 
-1. Conference Reviewer: [International Conference on 3D Vision 2024](https://3dvconf.github.io/2024/)
-
-2. Workshop Reviwer: [ICCV OpenSun 3D Workshop 2023](https://opensun3d.github.io/)
+1. Conference Reviewer: 3DV, ICCV OpenSun Workshop, SIGGRAPH, ECCV, NeurIPS, CVP. 

@@ -1,36 +1,37 @@
 ---
 ---
 
-@inproceedings{advaith_thesis,
-  abbr={UoE Thesis},
-  abstract={Bipedal locomotion is a challenging control task to learn due to the high dimensionality
-    of the action and state vectors and the partially observable and non-linear nature of the
-    agent's dynamics. In this thesis, we primarily focus on locomotion in bipedal robots like
-    Cassie with the help of model-based reinforcement learning. First, we approximate the
-    dynamics of a bipedal robot with a novel transformer model. Upon effectively training
-    the transformer model, we deployed it in a zeroth-order planner to control a bipedal
-    robot. However, due to the inability of zeroth-order planners to scale with the action's
-    dimensionality, we devised a novel first-order planner and robust model retraining
-    methods which could circumvent these problems and result in stable locomotion. Over
-    the course of this thesis, we hope to motivate this problem and support the success of
-    our methods with experimental results in simulation.},
-  title={Model-Based Reinforcement Learning for Bipedal Robots},
+@inproceedings{maddipatla2025inverseproblemsexperimentguidedalphafold,
+  abbr={af3_guidance},
+  abstract={Proteins exist as a dynamic ensemble of multiple conformations, and these motions are often crucial for their functions. However, current structure prediction methods predominantly yield a single conformation, overlooking the conformational heterogeneity revealed by diverse experimental modalities. Here, we present a framework for building experiment-grounded protein structure generative models that infer conformational ensembles consistent with measured experimental data. The key idea is to treat state-of-the-art protein structure predictors (e.g., AlphaFold3) as sequence-conditioned structural priors, and cast ensemble modeling as posterior inference of protein structures given experimental measurements. Through extensive real-data experiments, we demonstrate the generality of our method to incorporate a variety of experimental measurements. In particular, our framework uncovers previously unmodeled conformational heterogeneity from crystallographic densities, and generates high-accuracy NMR ensembles orders of magnitude faster than the status quo. Notably, we demonstrate that our ensembles outperform AlphaFold3 and sometimes better fit experimental data than publicly deposited structures to the Protein Data Bank (PDB). We believe that this approach will unlock building predictive models that fully embrace experimentally observed conformational diversity.},
+  title={Inverse problems with experiment-guided AlphaFold},
   author={Maddipatla, Sai Advaith},
-  year={2023},
-  month={June},
-  url={https://drive.google.com/file/d/1XRYYnOpRSO0wBgxUsogLf1OnKofgE2Dm/view},
-  pdf={https://drive.google.com/file/d/1XRYYnOpRSO0wBgxUsogLf1OnKofgE2Dm/view},
-  booktitle = {The University of Edinburgh Undergraduate Dissertations},
+  year={2025},
+  month={July},
+  url={https://arxiv.org/pdf/2502.09372},
+  pdf={https://arxiv.org/pdf/2502.09372},
+  booktitle = {International Conference on Machine Learning 2025},
   selected={true},
 }
 
-@inproceedings{t_sne,
-  abbr={Preprint},
-  title={Measuring Variance Propagation in t-SNE},
-  author={Emile Anand, and Maddipatla, Sai Advaith},
-  year={2023},
-  month={February},
-  url={https://drive.google.com/file/d/1XRYYnOpRSO0wBgxUsogLf1OnKofgE2Dm/view},
-  pdf={https://drive.google.com/file/d/1XRYYnOpRSO0wBgxUsogLf1OnKofgE2Dm/view},
+@inproceedings{mlsb_altloc,
+  abbr={mlsb_altloc},
+  title={Generative modeling of protein ensembles guided by crystallographic electron densities},
+  author={Advaith Maddipatla and Nadav Bojan Sellam and Sanketh Vedula and Ailie Marx and Alex Bronstein},
+  year={2024},
+  month={December},
+  url={https://arxiv.org/pdf/2412.13223},
+  pdf={https://arxiv.org/pdf/2412.13223},
+  booktitle = {Oral Presentation at Machine Learning for Structural Biology Workshop at NeurIPS 2024},
+}
+
+@misc{bojan2025representinglocalproteinenvironments,
+  abbr={force_fields},
+  title={Representing local protein environments with atomistic foundation models},
+  author={Meital Bojan and Sanketh Vedula and Advaith Maddipatla and Nadav Bojan Sellam and Federico Napoli and Paul Schanda and Alex M. Bronstein},
+  year={2025},
+  month={May},
+  url={https://arxiv.org/pdf/2412.13223},
+  pdf={https://arxiv.org/pdf/2412.13223},
   booktitle = {Preprint},
 }
