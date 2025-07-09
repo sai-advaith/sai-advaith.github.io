@@ -67,9 +67,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: https://github.com/sai-advaith
+github_username: sai-advaith
 gitlab_username: # your GitLab user name
-twitter_username: https://x.com/AdvaithSai1
+twitter_username: AdvaithSai1
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
