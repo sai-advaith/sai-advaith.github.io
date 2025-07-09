@@ -1,7 +1,7 @@
 Hi!
 I am a Master's student at the University of Oxford.
 
-I'm a research assistant at under [Prof. Alex Bronstein](https://bron.cs.technion.ac.il/) and [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/)
+I'm a research assistant under [Prof. Alex Bronstein](https://bron.cs.technion.ac.il/) and [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at the University of Oxford and Institute of Science and Technology, Austria.
 
 Broadly I am interested in developing deep learning methods that accelerate scientific discovery.
 
