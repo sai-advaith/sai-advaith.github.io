@@ -20,15 +20,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi!
 
-I am a master's student at the University of Oxford.
+I am an ELLIS Computer Science PhD with [Prof. Alex Bronstein](https://bron.cs.technion.ac.il/) at the Intitute of Science and Technology, Austria and [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at the University of Oxford.
 
-I'm a research assistant working with [Prof. Alex Bronstein](https://bron.cs.technion.ac.il/) at IST Austria and [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at the University of Oxford.
+My research interest is in developing deep learning methods that accelerate scientific discovery for structural biology and chemistry.
 
-My research interest is in developing deep learning methods that accelerate scientific discovery. 
-
-I received my BSc (Hons.) in Computer Science and AI from the [University of Edinburgh](https://www.ed.ac.uk/). During my junior year, I was an exchange student at [California Institute of Technology](https://www.caltech.edu/).
-
-During my undergrad, I developed novel model-based reinforcement learning methods for bipedal robots, under the supervision of [Prof. Subramanian Ramamoorthy](https://rad.inf.ed.ac.uk/) and [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/). 
+I received my MSc (Distinction) in Computer Science from the University of Oxford in 2025, and a BSc (First Class Hons.) in Computer Science and AI from the [University of Edinburgh](https://www.ed.ac.uk/) in 2023. During , I was an exchange student at [California Institute of Technology](https://www.caltech.edu/).
 
 You can find my CV [here](https://drive.google.com/file/d/15U3F80Zzmx971YegpHt9faQ_BWDd0_C7/view?usp=sharing).
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
