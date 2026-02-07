@@ -1,13 +1,34 @@
+---
+layout: about
+title: About
+permalink: /
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
+
+# news: true  # includes a list of news items
+# latest_posts: true  # includes a list of the newest posts
+# selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+---
 Hi!
 
-I am a master's student at the University of Oxford.
+I am an ELLIS Computer Science PhD with [Prof. Alex Bronstein](https://bron.cs.technion.ac.il/) at the Intitute of Science and Technology, Austria and [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at the University of Oxford.
 
-I'm a research assistant working with [Prof. Alex Bronstein](https://bron.cs.technion.ac.il/) at IST Austria and [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at the University of Oxford.
+My research interest is in developing deep learning methods that accelerate scientific discovery for structural biology and chemistry.
 
-My research interest is in developing deep learning methods that accelerate scientific discovery. 
+I received my MSc (Distinction) in Computer Science from the University of Oxford in 2025, and a BSc (First Class Hons.) in Computer Science and AI from the [University of Edinburgh](https://www.ed.ac.uk/) in 2023. During my junior year, I was an exchange student at [California Institute of Technology](https://www.caltech.edu/).
 
-I received my BSc (Hons.) in Computer Science and AI from the [University of Edinburgh](https://www.ed.ac.uk/). During my junior year, I was an exchange student at [California Institute of Technology](https://www.caltech.edu/).
+<!-- You can find my CV [here](https://drive.google.com/file/d/15U3F80Zzmx971YegpHt9faQ_BWDd0_C7/view?usp=sharing). -->
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-During my undergrad, I developed novel model-based reinforcement learning methods for bipedal robots, under the supervision of [Prof. Subramanian Ramamoorthy](https://rad.inf.ed.ac.uk/) and [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/). 
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/)  -->
 
-You can find my CV [here](https://drive.google.com/file/d/15U3F80Zzmx971YegpHt9faQ_BWDd0_C7/view?usp=sharing).
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them automatically. -->
