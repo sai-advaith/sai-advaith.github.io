@@ -16,4 +16,4 @@ Teaching Assistant (University of Edinburgh):
 
 Professional Service
 
-1. Conference Reviewer: 3DV, ICCV OpenSun Workshop, SIGGRAPH, ECCV, NeurIPS, CVP. 
+1. Conference Reviewer: 3DV, ICCV OpenSun Workshop, SIGGRAPH, ECCV, NeurIPS, CVPR, and ICML. 
