@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi!
 
-I am an ELLIS Computer Science PhD with [Prof. Alex Bronstein](https://bron.cs.technion.ac.il/) at the Intitute of Science and Technology, Austria and [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) at the University of Oxford.
+I am an ELLIS Computer Science PhD with [Prof. Alex Bronstein](https://bron.cs.technion.ac.il/) at the Intitute of Science and Technology, Austria and [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
 
 My research interest is in developing deep learning methods that accelerate scientific discovery for structural biology and chemistry.
 
