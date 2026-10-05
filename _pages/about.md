@@ -20,11 +20,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi!
 
-I am an ELLIS Computer Science PhD with [Prof. Alex Bronstein](https://bron.cs.technion.ac.il/) at the Intitute of Science and Technology, Austria and [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
+I am an ELLIS Computer Science PhD with [Prof. Alex Bronstein](https://bron.cs.technion.ac.il/) at the Institute of Science and Technology, Austria and [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
 
 My research interest is in developing deep learning methods that accelerate scientific discovery for structural biology and chemistry.
 
-I received my MSc (Distinction) in Computer Science from the University of Oxford in 2025, and a BSc (First Class Hons.) in Computer Science and AI from the [University of Edinburgh](https://www.ed.ac.uk/) in 2023. During my junior year, I was an exchange student at [California Institute of Technology](https://www.caltech.edu/).
+I received my MSc (Distinction) in Computer Science from the University of Oxford in 2025, and a BSc (First Class Hons.) in Computer Science and AI from the [University of Edinburgh](https://www.ed.ac.uk/) in 2023. During my junior year, I was a visiting student at [California Institute of Technology](https://www.caltech.edu/).
 
 <!-- You can find my CV [here](https://drive.google.com/file/d/15U3F80Zzmx971YegpHt9faQ_BWDd0_C7/view?usp=sharing). -->
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
